@@ -1,10 +1,10 @@
 # VCPlayerBot
 
-![GitHub Repo stars](https://img.shields.io/github/stars/LXR-YOUTUBER-AMAL/VCPlayerBot?color=blue&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/LXR-YOUTUBER-AMAL/VCPlayerBot)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/LXR-YOUTUBER-AMAL/VCPlayerBot)
-![GitHub contributors](https://img.shields.io/github/contributors/LXR-YOUTUBER-AMAL/VCPlayerBot?style=flat)
-![GitHub forks](https://img.shields.io/github/forks/LXR-YOUTUBER-AMAL/VCPlayerBot?style=flat)
+![GitHub Repo stars](https://github.com/Sdfghkj/VCPlayerBot?organization=Sdfghkj&organization=Sdfghkj?color=blue&style=flat)
+![GitHub issues](https://github.com/Sdfghkj/VCPlayerBot?organization=Sdfghkj&organization=Sdfghkj)
+![GitHub pull requests](https://github.com/Sdfghkj/VCPlayerBot?organization=Sdfghkj&organization=Sdfghkj)
+![GitHub contributors](https://github.com/Sdfghkj/VCPlayerBot?organization=Sdfghkj&organization=Sdfghkj?style=flat)
+![GitHub forks](https://github.com/Sdfghkj/VCPlayerBot?organization=Sdfghkj&organization=Sdfghkj?style=flat)
 
 Telegram bot to stream videos in telegram voicechat for both groups and channels. Supports live streams, YouTube videos and telegram media.
 
